@@ -1,0 +1,1 @@
+[09-Jun-2024 11:41:38 Asia/Jakarta] PHP Warning:  password_verify() expects exactly 2 parameters, 1 given in /home/tecp5312/public_html/bangjanganbang/login_admin.php on line 17
