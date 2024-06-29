@@ -1,0 +1,174 @@
+Lampu
+
+1.
+Jenis Produk : Lampu LED
+Warna Lampu : Putih
+Kapasitas : 18 Watt
+Lumens : 2000 Lumens
+Umur Lampu : 15.000 Jam
+
+2.
+Jenis Produk : Lampu LED
+Warna Lampu : Putih
+Kapasitas : 15 Watt
+Lumens : 1521 Lumens (101 Lumens/Watt)
+Umur Lampu : 15.000 Jam
+
+3.
+Jenis Produk : Lampu LED
+Warna Lampu : Putih
+Kapasitas : 11 Watt
+Lumens : 1100 Lumens (100 Lumens/Watt)
+Umur Lampu : 15.000 Jam
+
+4.
+Jenis Produk : Lampu LED
+Warna Lampu : Kuning
+Kapasitas : 5 Watt
+Lumens : 380 Lumens (76 Lumens/Watt)
+Umur Lampu : 15.000 Jam
+
+5.
+Jenis Produk : Lampu LED
+Warna Lampu : Putih
+Kapasitas : 20 Watt
+Lumens : 2450 Lumens
+Umur Lampu : 15.000 Jam
+
+6.
+Jenis Produk : Lampu LED
+Warna Lampu : Putih
+Kapasitas : 13 Watt
+Lumens : 1200 Lumens (92 Lumens/Watt)
+Umur Lampu : 15.000 Jam
+
+7.
+Jenis Produk : Lampu LED
+Warna Lampu : Kuning
+Kapasitas : 11 Watt
+Lumens : 980 Lumens
+Umur Lampu : 15.000 Jam
+
+8.
+Jenis Produk : Lampu LED
+Warna Lampu : Kuning
+Kapasitas : 9 Watt
+Lumens : 760 Lumens (84 Lumens/Watt)
+Umur Lampu : 15.000 Jam
+
+9.
+Kontrol lampu dengan menggunakan telepon pintar melalui koneksi wi-fi/hotspot
+Kontrol lampu dapat menggunakan suara (mendukung Alexa, Siri, dan Google Assistant)
+Dengan kecerahan maksimal 896 lumens, lampu ini juga dapat diredupkan
+Kombinasi warna RGB hingga 16 juta warna
+Memiliki gradasi cahaya putih, dari 2700 k (warm white) sampai 6500 k (cool white)
+Pilihan suasana lampu yang dapat disesuaikan dengan kondisi ruangan
+Dapat berubah ubah warna mengikuti alunan music
+Sangat mudah dipasang, karena sesuai untuk rumah lampu (fitting) E27 yang sangat umum dipergunakan
+Wattage : 9W
+Lumens : 896 lumens
+
+10.
+Kontrol lampu dengan menggunakan telepon pintar melalui koneksi wi-fi/hotspot
+Kontrol lampu dapat menggunakan suara (mendukung Alexa, Siri, dan Google Assistant)
+Dengan kecerahan maksimal 896 lumens, lampu ini juga dapat diredupkan
+Kombinasi warna RGB hingga 16 juta warna
+Memiliki gradasi cahaya putih, dari 2700 k (warm white) sampai 6500 k (cool white)
+Pilihan suasana lampu yang dapat disesuaikan dengan kondisi ruangan
+Dapat berubah ubah warna mengikuti alunan music
+Sangat mudah dipasang, karena sesuai untuk rumah lampu (fitting) E27 yang sangat umum dipergunakan
+Wattage : 12W
+Lumens : 1150 lumens
+
+11.
+Dimmable: Yes
+Base: E27
+Input Voltage: AC 220 - 240V
+Frequency: 50 Hz
+Wattage: 9W
+Color Temperature: 2700K-6500K + RGB
+Environment Temperature (°C): -20° ~ + 45° C
+1.500 Lumens
+
+12.
+Dimmable: Yes
+Base: E27
+Input Voltage: AC 220 - 240V
+Frequency: 50 Hz
+Wattage: 12W
+Color Temperature: 2700K-6500K + RGB
+Environment temperature (°C): -20° ~ + 45° C
+2.200 Lumens
+
+13.
+Jenis Produk = Lampu LED & Lampu Emergency
+Warna Cahaya = Putih
+Kapasitas = 7 Watt
+Lumens = 630 Lumens (90 Lumens/Watt)
+Kapasitas Baterai = 3.7V 2000mAh Lithium Ion
+Voltage = AC 100 - 240V 50/60 Hz
+Umur Lampu = 15.000 Jam
+
+14.
+Dimmable: Yes
+Base: E27
+Input Voltage: AC 220 - 240V
+Frequency: 50 Hz
+Wattage: 4W
+Color Temperature: 2700K-6500K + RGB
+Environment Temperature (°C): -20° ~ + 45° C
+900 Lumens
+
+15.
+Control via Bluetooth, apps, and voice commands
+LED light technology
+60mm diameter
+220V-240V input voltage
+25,000 hours lifetime
+0.5 Watt power consumption
+
+16.
+IT Smart Filament Bulb
+IT Smart - App control
+Brightness Adjustable
+Schedule Setting
+Dimmable
+
+17.
+Jenis Produk = Lampu LED & Lampu Emergency
+Warna Cahaya = Putih
+Kapasitas = 10 Watt
+Lumens AC = 900 Lumens (90 Lumens/Watt)
+Lumens DC (Pada saat mati lampu) = 540 Lumens (Masih 60% Terangnya dibandingkan AC)
+Kapasitas Baterai = 3.7V 2000mAh Lithium Ion
+Voltage = AC 100 - 240V 50/60 Hz
+Umur Lampu = 15.000 Jam
+
+18.
+Jenis Produk : Lampu LED Slim Downlight Tri-Color
+Warna Lampu : Daylight - Warm White - Cool White (Tri-Color)
+Kapasitas : 15 Watt
+Lumens : 1400 Lumens
+Diameter Pasang : 6 Inch
+
+19.
+Berikanlah penerangan area indoor dengan produk yang terbaik dari Meval Lampu LED Shell Downlight 6W Warm White, yang memberikan cahaya Warm White terang bagaikan mutiara dengan kenyamanan di mata.
+Dengan watt yang rendah sudah dapat memberikan penerangan secara maksimal dapat melakukan penghematan energi hingga 90% dari lampu-lampu rumah biasa.
+Lampu dengan ramah lingkungan, tidak mengeluarkan panas, tidak berbahaya tahan lama dan tidak mudah pecah terhadap benturan.
+Jenis Produk = Lampu LED Shell Downlight
+Warna Lampu = Warm White
+Bentuk = Round / Bulat
+Kapasitas = 6 Watt
+Diameter Pasang = 3 inch
+Lumens = 540 Lumens (90 Lumens/Watt)
+
+20.
+Synthesis Materials
+Color-changeable, dimmable, portable
+power adapter included
+Table lamp type
+20,000 hour lifetime
+43 Watt power consumption
+520 lumens
+Light color 2000-6500 Hue White Color Ambiance
+White color
