@@ -14,8 +14,7 @@ services:
   mysql:
     image: mysql:8.0
     environment:
-      MYSQL_ROOT_PASSWORD: ""
-      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+      MYSQL_ROOT_PASSWORD: "ZsLDWbAjKzJZCTzajLnbNexNCmiOyqhL"
       MYSQL_DATABASE: tecp5312_elektronik
     volumes:
       - ./db/tecp5312_elektronik.sql:/docker-entrypoint-initdb.d/init.sql
