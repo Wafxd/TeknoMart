@@ -1,10 +1,17 @@
 <?php 
-$host = "mysql.railway.internal";
+$host = "mysql"; // Nama service di Docker
 $user = "root";
-$password = "ILrYimZLIhAhMKldUsUzOjXmbSKluCEv";
+$password = "";
 $dbname = "tecp5312_elektronik";
 
-$conn = mysqli_connect($host, $user, $password, $dbname);
+// Tambahkan parameter port dan timeout
+$conn = mysqli_connect($host, $user, $password, $dbname, 3306, 30);
+
+if (!$conn) {
+    error_log("Koneksi gagal: " . mysqli_connect_error());
+    die("Database belum siap, coba refresh dalam 30 detik");
+}
+
 
 function query($query){
     global $conn;

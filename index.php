@@ -291,7 +291,7 @@ $barang = query("SELECT *,
       <div class="row pb-3" >
         <?php 
         foreach ($barang as $brg){
-          $average_rating = round($brg['average_rating'], 1); // Pembulatan rating ke satu desimal
+          $average_rating = round($brg['average_rating'] ?? 0, 1); // Pembulatan rating ke satu desimal
     
           if ($average_rating === null) {
               $average_rating = 0; // Atau nilai default lainnya
