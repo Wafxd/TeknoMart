@@ -1,6 +1,6 @@
 <?php 
 // Gunakan environment variables untuk Railway
-$host = getenv('mysql.railway.internal') ?: 'mysql'; // Default ke 'mysql' untuk Docker lokal
+$host = getenv('MYSQLHOST') ?: 'mysql'; // Default ke 'mysql' untuk Docker lokal
 $user = getenv('MYSQLUSER') ?: 'root';
 $password = getenv('MYSQLPASSWORD') ?: 'ZsLDWbAjKzJZCTzajLnbNexNCmiOyqhL';
 $dbname = getenv('MYSQLDATABASE') ?: 'tecp5312_elektronik';
