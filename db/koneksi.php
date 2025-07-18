@@ -1,10 +1,15 @@
 <?php 
-$host = "yamabiko.proxy.rlwy.net";
-$user = "root";
-$password = "";
-$dbname = "tecp5312_elektronik";
+$url = "mysql://root:ILrYimZLIhAhMKldUsUzOjXmbSKluCEv@yamabiko.proxy.rlwy.net:47404/railway";
 
-$conn = mysqli_connect($host, $user, $password, $dbname);
+// Parsing URL koneksi
+$url_parsed = parse_url($url);
+$host = $url_parsed['host'];        // yamabiko.proxy.rlwy.net
+$user = $url_parsed['user'];        // root
+$password = $url_parsed['pass'];    // ILrYimZLIhAhMKldUsUzOjXmbSKluCEv
+$dbname = ltrim($url_parsed['path'], '/');  // railway (nama database)
+
+// Membuat koneksi ke database MySQL di Railway
+$conn = mysqli_connect($host, $user, $password, $dbname, 47404); 
 
 function query($query){
     global $conn;
