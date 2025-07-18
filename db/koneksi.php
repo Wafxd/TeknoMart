@@ -1,16 +1,18 @@
 <?php 
-// Gunakan environment variables untuk Railway
-$host = getenv('MYSQLHOST') ?: 'mysql'; // Default ke 'mysql' untuk Docker lokal
-$user = getenv('MYSQLUSER') ?: 'root';
-$password = getenv('MYSQLPASSWORD') ?: '';
-$dbname = getenv('MYSQLDATABASE') ?: 'tecp5312_elektronik';
-$port = getenv('MYSQLPORT') ?: 3306;
+$host = getenv('MYSQL_HOST') ?: 'mysql'; // 'mysql' mengacu pada service name di compose
+$user = getenv('MYSQL_USER') ?: 'root';
+$password = getenv('MYSQL_PASSWORD') ?: '';
+$dbname = getenv('MYSQL_DATABASE') ?: 'tecp5312_elektronik';
+$port = getenv('MYSQL_PORT') ?: 3306;
 
-$conn = mysqli_connect($host, $user, $password, $dbname, $port, 30);
+// Debugging
+error_log("Mencoba koneksi ke: host=$host, user=$user, db=$dbname");
 
-if (!$conn) {
-    error_log("Koneksi gagal: " . mysqli_connect_error());
-    die("Database belum siap, coba refresh dalam 30 detik");
+$conn = new mysqli($host, $user, $password, $dbname, $port);
+
+if ($conn->connect_error) {
+    error_log("Koneksi gagal: " . $conn->connect_error);
+    die("Database connection failed. Please check the database service.");
 }
 
 
