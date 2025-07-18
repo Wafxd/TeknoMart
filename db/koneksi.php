@@ -1,7 +1,7 @@
 <?php 
-$host = "localhost:3306";
+$host = "mysql.railway.internal";
 $user = "root";
-$password = "";
+$password = "ILrYimZLIhAhMKldUsUzOjXmbSKluCEv";
 $dbname = "tecp5312_elektronik";
 
 $conn = mysqli_connect($host, $user, $password, $dbname);
