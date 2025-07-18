@@ -1,5 +1,5 @@
 <?php 
-$host = "localhost:3306";
+$host = "yamabiko.proxy.rlwy.net";
 $user = "root";
 $password = "";
 $dbname = "tecp5312_elektronik";
