@@ -1,11 +1,12 @@
 <?php 
-$host = "mysql"; // Nama service di Docker
-$user = "root";
-$password = "";
-$dbname = "tecp5312_elektronik";
+// Gunakan environment variables untuk Railway
+$host = getenv('MYSQLHOST') ?: 'mysql'; // Default ke 'mysql' untuk Docker lokal
+$user = getenv('MYSQLUSER') ?: 'root';
+$password = getenv('MYSQLPASSWORD') ?: '';
+$dbname = getenv('MYSQLDATABASE') ?: 'tecp5312_elektronik';
+$port = getenv('MYSQLPORT') ?: 3306;
 
-// Tambahkan parameter port dan timeout
-$conn = mysqli_connect($host, $user, $password, $dbname, 3306, 30);
+$conn = mysqli_connect($host, $user, $password, $dbname, $port, 30);
 
 if (!$conn) {
     error_log("Koneksi gagal: " . mysqli_connect_error());
